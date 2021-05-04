@@ -2,3 +2,5 @@
 Binaries/
 Intermediate/
 roadtrek.sln
+*.log
+Saved/Config/CrashReportClient/
